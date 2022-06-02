@@ -1,0 +1,16 @@
+Stat_clients;valeur
+nb_client;5096
+compte_ouvert;5019
+inscrit_NL;4060
+Monsieur;1015
+Madame;4081
+civilite_NR;0
+age_Non_renseigne;62
+age_Moins_de_18_ans;56
+age_18_25_ans;44
+age_25_35_ans;92
+age_35_45_ans;823
+age_45_55_ans;1583
+age_55_65_ans;1290
+age_plus_de_65_ans;1146
+age_moyen;55,5

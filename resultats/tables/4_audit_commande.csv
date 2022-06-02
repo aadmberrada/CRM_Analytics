@@ -1,0 +1,2 @@
+nb_ligne;NB_commandes;NB_num_client;min_date;max_date;min_montant_des_produits;max_montant_des_produits;min_remise_sur_produits;max_remise_sur_produits;min_montant_livraison;max_montant_livraison;min_remise_sur_livraison;max_remise_sur_livraison;min_montant_total_paye;max_montant_total_paye
+11242;11242;4201;01/01/2020;31/12/2021;3.5;3631;-1396;7.54;0.09;130;-130;35;-3.99;3716
